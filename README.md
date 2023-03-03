@@ -26,8 +26,12 @@ node legionrawv2.js (url) (time)
 python legionsock.py  this method have panel
 
 ----------------
+
+python legioncfb.py (url) (threads)
+
+-----------------
 Contact : 
 
-Telegram : @
+Telegram : @lhpxdeveloveper
 
 LEGION DDOS STRESS
