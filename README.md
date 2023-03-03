@@ -20,6 +20,14 @@ node legionraw.js (url) (time)
 --------------
 
 node legionrawv2.js (url) (time)
-WAITING FOR UPDATE
+
+---------------
+
+python legionsock.py  this method have panel
+
+----------------
+Contact : 
+
+Telegram : @
 
 LEGION DDOS STRESS
