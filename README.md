@@ -30,6 +30,11 @@ python legionsock.py  this method have panel
 python legioncfb.py (url) (threads)
 
 -----------------
+
+node legionuambf.js (url) (time) (req_per_ip) (proxy list)
+
+
+-----------------'
 Contact : 
 
 Telegram : @lhpxdeveloveper
